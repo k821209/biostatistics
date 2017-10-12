@@ -23,7 +23,7 @@ node [shape=box] ;
 9 -> 10 ;
 11 [label="gini = 0.305\nsamples = 16\nvalue = [13, 3]\nclass = malignant"] ;
 9 -> 11 ;
-12 [label="radius error <= 0.192\ngini = 0.043\nsamples = 136\nvalue = [133, 3]\nclass = malignant"] ;
+12 [label="area error <= 16.88\ngini = 0.043\nsamples = 136\nvalue = [133, 3]\nclass = malignant"] ;
 8 -> 12 ;
 13 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2]\nclass = benign"] ;
 12 -> 13 ;
